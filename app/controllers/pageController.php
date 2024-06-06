@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Controllers\PagesController;
+namespace App\Controllers\PageController;
 
 use \PDO;
 
